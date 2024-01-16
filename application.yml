@@ -3,7 +3,7 @@ my:
   list:
        values: One, Two, Three, Four
 db:
-   connection: "connectionString-string-from-config-server"
+   connection: "modified connectionString-string-from-config-server"
    host: 127.0.0.1
    port: 1200
 
