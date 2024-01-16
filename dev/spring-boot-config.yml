@@ -1,0 +1,10 @@
+my:
+  greeting: Hello World from Microservice Specific config file in dev dir.
+  list:
+       values: One, Two, Three, Four
+db:
+   connection: "Microservice Specific connectionString-string-from-config-server"
+   host: 127.0.0.2
+   port: 1201
+
+management.endpoints.web.exposure.include: "*"
