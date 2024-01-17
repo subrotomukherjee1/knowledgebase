@@ -3,7 +3,7 @@ my:
   list:
        values: One, Two, Three, Four
 db:
-   connection: "Microservice SIT Specific connectionString-string-from-config-server on 17th Jan, 2024 \n"
+   connection: "\nMicroservice SIT Specific connectionString-string-from-config-server on 17th Jan, 2024"
    host: 127.0.0.2
    port: 1209
 
