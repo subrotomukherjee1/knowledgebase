@@ -1,9 +1,9 @@
 my:
-  greeting: Hello World from Microservice Dev Specific config file.
+  greeting: Hello World from Microservice Dev Specific config file from the other api.
   list:
        values: One, Two, Three, Four
 db:
-   connection: "Microservice Dev Specific connectionString-string-from-config-server on 17th Jan, 2024 \n"
+   connection: "Microservice Dev Specific connectionString-string-from-config-server from the other api"
    host: 127.0.0.2
    port: 1201
 
