@@ -1,5 +1,5 @@
 my:
-  greeting: Hello World from Microservice Dev Specific config file \n.
+  greeting: Hello World from Microservice SIT Specific config file.
   list:
        values: One, Two, Three, Four
 db:
