@@ -1,9 +1,9 @@
 my:
-  greeting: Hello World from Microservice PRODUCTION Specific config file from the other api.
+  greeting: Hello World from Microservice PRODUCTION_ENV Specific config file from the other api.
   list:
        values: One, Two, Three, Four
 db:
-   connection: "Microservice PRODUCTION Specific connectionString-string-from-config-server from the other api"
+   connection: "Microservice PRODUCTION_ENV Specific connectionString-string-from-config-server from the other api"
    host: 127.0.0.2
    port: 1209
 
